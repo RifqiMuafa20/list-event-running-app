@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Kalender Lari 2023</string>
+    <string name="events_name">Nama Event</string>
+    <string name="description">Deskripsi</string>
+    <string name="events_date">Tanggal Event</string>
+    <string name="share">Bagikan</string>
+    <string name="about">Tentang Saya</string>
+    <string name="nama_lengkap">Muh. Rifqi Mu\'afa</string>
+    <string name="email">muhammadrifqi20001@gmail.com</string>
+
+    <string-array name="event_name">
+        <item>Gowa Fun Run 2023</item>
+        <item>Rewa Run 2023</item>
+        <item>Herald Run 2023</item>
+        <item>Makassar Half Marathon 2023</item>
+        <item>Indomaret Fun Run 2023</item>
+        <item>Geopark Half Marathon 2023</item>
+        <item>PDAM Fun Run 2023</item>
+        <item>Sinjai Fun Run 2023</item>
+        <item>Run to Give 2023</item>
+        <item>Run For Sight 2023</item>
+        <item>Lanud Hasanuddin Air Force Run 2023</item>
+        <item>Samsung Sawerigading Run 2023</item>
+    </string-array>
+    <string-array name="event_date">
+        <item>15 Januari 2023</item>
+        <item>7 Mei 2023</item>
+        <item>28 Mei 2023</item>
+        <item>18 Juni 2023</item>
+        <item>25 Juni 2023</item>
+        <item>25 Juni 2023</item>
+        <item>13 Agustus 2023</item>
+        <item>8 Oktober 2023</item>
+        <item>15 Oktober 2023</item>
+        <item>15 Oktober 2023</item>
+        <item>12 November 2023</item>
+        <item>10 Desember 2023</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kesuksesan event Gowa Run sebelumnya dapat dilihat dari tingginya antusias masyarakat bukan hanya dari dalam Kab. Gowa tetapi dari luar Kota Makassar untuk berlari di event Gowa Run yang diadakan oleh Gowa Runners. Di tahun 2020 “Gowa Fun Run” berhasil menghadirkan kurang lebih 600 peserta serta dan di tahun 2022 “Gowa Run 10K” menghadirkan kurang lebih 1.200 peserta. Ini menandakan bahwa event Gowa Run yang diadakan oleh Gowa Runners merupakan event yang sangat dinantikan. Di event selanjutnya Gowa Run 2023 kami menargetkan kurang lebih 2000 peserta yang akan berlari di Kab.Gowa.</item>
+        <item>Hello Runners!! Fun Run berhadiah rumah? No hoax-hoax club! Rewa Run merupakan event Fun Run yang diadakan oleh PT. Tiga Maha Rewa dengan Hadiah utama 1 UNIT RUMAH. Rewa Run 2023 akan diadakan ada hari Minggu tanggal 07 Mei 2023 di Kawasan Perumahan Legend Hartacu, Kab. Maros – Sulawesi Selatan. Tidak hanya rumah, doorprize menarik lainnya juga siap menunggumu di garis finish!</item>
+        <item>Hai Runners. Dalam rangka memeriahkan HUT perdana PT. Herald Indonesia Media, akan digelar Herald Run 7K 2023. Lomba lari ini terbuka untuk umum dan akan digelar pada 28 Mei 2023 dangan kategori jarak sejauh 7 km. Herald Run 2023 ditargetkan diikuti sekitar 2000 peserta dari semua golongan manyarakat, baik itu tua maupun muda. Selain untuk umum juga ada kategori pelajar, yang akan memperebutkan hadiah total 10 juta rupiah. Management Herald ID juga menyiapkan hadiah utama Umrah VIP, sepeda motor dan aneka hadiah bernilai jutaan lainnya.</item>
+        <item>Runners, melalui MHM kalian diundang menikmati Kota Makassar dengan semangat “stride of solidarity”. Rute lari disiapkan khusus sehingga Runners dapat berkeliling melintasi sejumlah ikon dan spot gerbang Indonesia Timur ini. Spectators dan sapa warga yang hangat bersahabat pun akan menyambut pelari di lintasan.</item>
+        <item>Halo Sobat Runners! Event Fun Run Indomaret kembali hadir di tahun 2023 ini!! Buat kamu-kamu yang hobi lari, yuk ikutan Fun Run Indomaret 2023 yang akan diadakan di 5 kota besar di Indonesia; Palembang, Solo, Makassar, Medan dan Bali. Sambil sehat bareng, kamu-kamu juga bisa memenangkan Doorprize dengan total ratusan juta rupiah lho!</item>
+        <item>Pemerintah Kabupaten Maros bekerjasama dengan Maros Runners dengan bangga kembali menghadirkan Geopark Half Marathon 2023. Jika tahun lalu diadakan di kawasan Taman Purbakala Leang Leang, maka tahun 2023 ini akan diadakan di kawasan Bantimurung Waterpark, Bantimurung Maros. Di Geopark Half Marathon 2023 kali ini terdapat 3 pilihan kategori, 5 km, 10 km, 21 km, yang akan dihelat pada hari Minggu tanggal 25 Juni 2023.</item>
+        <item>Hi sobat Perumda! Dalam Rangka HUT PDAM Kota Makassar yang ke-99 tahun, Perumda Air Minum Kota Makassar akan menyelenggarakan PDAM kota Makassar Fun Run! PDAM Kota Makasar Fun Run 2023 akan diadakan pada hari Minggu, 13 Agustus 2023 di Lapangan Karebosi Makassar, Kota Makassar, Sulawesi Selatan.</item>
+        <item>Komunitas SINJAI RUNNERS terbentuk untuk mengantisipasi tingginya minat masyarakat sinjai dalam bidang olahraga, khususnya pada olahraga Lari. Komunitas SINJAI RUNNERS memiliki slogan yang simpel “Fun Larinya Happy Hidupnya”. Olahraga ini dikategorikan sebagai olahraga kardiovaskular yang sempurna. Manfaat lari secara rutin efektif untuk membakar lemak didalam tubuh, selain itu dapat menjaga kesehatan jantung hingga membuat suasana hati menjadi lebih bahagia sehingga berpengaruh baik bagi kesehatan fisik dan mental.</item>
+        <item>Four Points by Sheraton Makassar kembali menggelar Road To Give, Berlari Sambil Berdonasi! Road To Give merupakan bagian dari program tahunan Marriott Asia Pasifik dan telah menjadi wujud komitmen kuat perusahaan untuk membangun lingkungan yang berpusat pada kepedulian terhadap individu, dengan tujuan untuk meningkatkan kesejahteraan bersama.</item>
+        <item>Hai Runners! Dalam Rangka memperingati World Sight Day 2023, Departemen Ilmu Kesehatan Mata Fakultas Kedokteran Universitas Hasanuddin – FK Unhas bekerja sama dengan Persatuan Dokter Spesialis Mata Indonesia – Perdami Cabang Wilayah Sulawesi Selatan akan mengadakan serangkaian acara dengan tema “Love Your Eyes”. Diantaranya dengan mengajak kamu-kamu untuk mengikuti Kegiatan WSD Run For Sight 2023 yang diadakan pada hari Minggu, tanggal 15 Oktober 2023, bertempat di JK Arenatorium Student Center – Universitas Hasanuddin, Kota Makassar.</item>
+        <item>Air Force Run akan diadakan pada 12 November 2023, mengambil tempat Lanud Sultan Hasanuddin di Makassar. Kategori yang dilombakan adalah, 10K dan 5K. Kelas lomba terdiri dari Open, Nasional. Lomba ini bersifat kompetisi dan tersedia hadiah yang akan diinformasikan kemudian. Bagi para peserta tersedia jersey lomba. Seluruh peserta yang masuk finish di bawah Cut Off Time (COT) akan mendapat medali finisher yang didesain khusus. Mari bergabung pada Air Force Run, siapkan dirimu untuk berlari di tengah runway bersama atraksi pesawat tempur sukhoi dan merasakan semangat kebersamaan yang luar biasa ini dengan bintang tamu Kotak Band. Kami tunggu Runners di garis start.</item>
+        <item>Siapkan diri kamu, untuk pengalaman berbeda, berlari di Bumi Sawerigading. Samsung Sawerigading Fun Run akan diadakan pada hari Minggu, tanggal 10 Desember 2023, dengan kategori jarak 5 km dan 10 km. Acara ini terbuka untuk umum, dengan lokasi start dan finish di kawasan Tugu Nol Kilometer Kota Palopo, Sulawesi Selatan. Jangan sampai ketinggalan moment lari sambil menikmati indahnya jalan Kota Palopo.</item>
+    </string-array>
+    <string-array name="data_link">
+        <item>https://www.instagram.com/gowa.run/</item>
+        <item>https://www.instagram.com/rewarun/</item>
+        <item>https://www.instagram.com/heraldsulsel/</item>
+        <item>https://www.instagram.com/makassarhalfmarathon/</item>
+        <item>https://www.instagram.com/indomaret_makassar/</item>
+        <item>https://www.instagram.com/geoparkhalfmarathon2023/</item>
+        <item>https://www.instagram.com/pdammakassar/</item>
+        <item>https://www.instagram.com/sinjairun2023/</item>
+        <item>https://www.instagram.com/roadtogivejakarta/</item>
+        <item>https://www.instagram.com/rsunhasfunrun2023/</item>
+        <item>https://www.instagram.com/airforcerun_hnd/</item>
+        <item>https://www.instagram.com/samsungsawerigadingfunrun/</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/gowarun</item>
+        <item>@drawable/rewarun</item>
+        <item>@drawable/heraldrun</item>
+        <item>@drawable/makassarhalfmarathon</item>
+        <item>@drawable/indomaretrun</item>
+        <item>@drawable/geoparkrun</item>
+        <item>@drawable/pdamrun</item>
+        <item>@drawable/sinjairun</item>
+        <item>@drawable/runtogive</item>
+        <item>@drawable/unhasrun</item>
+        <item>@drawable/airforcerun</item>
+        <item>@drawable/samsungsawerigadingrun</item>
+    </integer-array>
+</resources>
