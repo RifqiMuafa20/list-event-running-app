@@ -7,6 +7,8 @@
     <string name="about">Tentang Saya</string>
     <string name="nama_lengkap">Muh. Rifqi Mu\'afa</string>
     <string name="email">muhammadrifqi20001@gmail.com</string>
+    <string name="photo_item">photo item</string>
+    <string name="logo_aplikasi">logo aplikasi</string>
 
     <string-array name="event_name">
         <item>Gowa Fun Run 2023</item>

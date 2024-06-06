@@ -27,6 +27,9 @@ class MainActivity : AppCompatActivity() {
         rvEvents.setHasFixedSize(true)
         list.addAll(getListEvents())
         showRecyclerList()
+
+        supportActionBar?.setDisplayHomeAsUpEnabled(false)
+        supportActionBar?.setDisplayShowTitleEnabled(false)
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
